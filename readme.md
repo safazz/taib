@@ -32,5 +32,5 @@ $ python3 taib.py
 ```
 ## Screenshot
 <img src="https://h.top4top.io/p_1658yctph0.jpg">
-<br>
-## Thank for Aslanzz
+
+
