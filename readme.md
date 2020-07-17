@@ -32,5 +32,4 @@ $ python3 taib.py
 ```
 ## Screenshot
 <img src="https://h.top4top.io/p_1658yctph0.jpg">
-## Thank for
-<font color="black" a href="https://github.com/aslanzz"></font>
+## Thank for Aslanzz
